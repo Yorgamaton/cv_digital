@@ -20,18 +20,23 @@ h1, .btn{
     width: 15rem;
 }
 /* "Left" is used to place the dropdown show in accordance with button */
-.infos{
-    left: -85px;
-}
+
 .skills{
-    left: -220px;
+    left: -90px;
 }
 .interests{
-    left: -230px;
+    left: -300px;
     font-size: 12px;
 }
 .form{
     width: 25rem;
     height: 345px;
-    left: -180px;
+}
+.educations{
+    width: 50rem;
+    left: -300px;
+}
+.experiences{
+    width: 50rem;
+    right: -200px;
 }
